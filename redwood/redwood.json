@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+      "datetime": 1767027460,
+      "filename": "YAAP-16-HOMEMADE-redwood-20251229.zip",
+      "payload": [
+        {
+          "offset": 4126,
+          "FILE_HASH": "uboKfTftmwgUAvsdG4B1ZwGPK723pbGd29vFFR74Kkk=",
+          "FILE_SIZE": "2141862399",
+          "METADATA_HASH": "VsL6L2+5ZfdkjqYJMcjPhF6DDjx2PdJ7lTSXuS9WGTs=",
+          "METADATA_SIZE": "172391"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+ROM:
+• Add support for OTA updates using YAAP's OpenDelta updater.
