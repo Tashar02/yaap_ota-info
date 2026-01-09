@@ -1,15 +1,15 @@
 {
   "response": [
     {
-      "datetime": 1767027460,
-      "filename": "YAAP-16-HOMEMADE-redwood-20251229.zip",
+      "datetime": 1768002377,
+      "filename": "YAAP-16-HOMEMADE-redwood-20260110.zip",
       "payload": [
         {
           "offset": 4126,
-          "FILE_HASH": "uboKfTftmwgUAvsdG4B1ZwGPK723pbGd29vFFR74Kkk=",
-          "FILE_SIZE": "2141862399",
-          "METADATA_HASH": "VsL6L2+5ZfdkjqYJMcjPhF6DDjx2PdJ7lTSXuS9WGTs=",
-          "METADATA_SIZE": "172391"
+          "FILE_HASH": "oqyAkwHjTxYA03YXBAZVifVFY5ciHugrUVrG5nPa6Bs=",
+          "FILE_SIZE": "2146687311",
+          "METADATA_HASH": "hQllr4sF2P4F0l+iC7Ane1gfIeHt5jDo+yuSL1CVJeE=",
+          "METADATA_SIZE": "172798"
         }
       ]
     }
