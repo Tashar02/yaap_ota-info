@@ -1,28 +1,2 @@
-ROM:
-• Add a toggle for screenshot sounds
-• Implement a new flashlight strength control tile, complete with primitive haptics and per-level control
-• Settings: Reflect that a gesture won't trigger ambient when ambient is disabled
-• Add a configurable blur radius slider for notification shade
-• Launcher: Add configurable blur radius slider
-• OpenDelta: Support new A16's progress centric notifications
-• Add back QPR2 Smartspace as a lockscreen weather provider
-• Add blurs option to fine-tuned battery saver
-• Allow setting a wider range for battery saver schedule %
-• Enable Expressive UI in GMS Setup Wizard
-• Fix non persisting toggles in fine-tuned battery saver
-• Fix broken toggles in fine-tuned battery saver
-• Fix charging sounds toggle title
-• Launcher: Fix hide label toggle hiding popup labels
-• Launcher: Drop configurable blur radius due to performance issues
-• [Tashar02] Switch back from expensive mirror blur to clamp blur
-• [Tashar02] Skip per process GPU memory usage trace if disabled in kernel
-
 Device:
-• Update unpinned blobs to redwood OS2.0.16.0.UMSMIXM
-• Update WFD system blobs to dada OS3.0.3.0.WOCMIXM
-• Update CarrierConfig to LA.QSSI.16.0.r1-06700-qssi.0
-• Transition back to stock time_daemon from Sony's TimeKeep
-• Boost CPU and GPU to max freq for expensive rendering, particularly for background blur
-• Set background blur radius for Launcher3 to 23
-• Fix dlopen failures for mialgoengine camera lib
-• Fix soft reboot caused by BPF check failure to detect GpuMem tracing in libmeminfo
+• Correctly override enhanced blur radius for Launcher3 and set it to 20dp

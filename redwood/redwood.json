@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1768002377,
-      "filename": "YAAP-16-HOMEMADE-redwood-20260110.zip",
+      "datetime": 1768042692,
+      "filename": "YAAP-16-HOMEMADE-redwood-20260110-hotfix.zip",
       "payload": [
         {
           "offset": 4126,
-          "FILE_HASH": "oqyAkwHjTxYA03YXBAZVifVFY5ciHugrUVrG5nPa6Bs=",
-          "FILE_SIZE": "2146687311",
-          "METADATA_HASH": "hQllr4sF2P4F0l+iC7Ane1gfIeHt5jDo+yuSL1CVJeE=",
+          "FILE_HASH": "BnGoVaPWacpdiNipTVzXMTNPYA+0beun1VDo8MVzHrA=",
+          "FILE_SIZE": "2146680471",
+          "METADATA_HASH": "L47ORqwzjsUN8nn9PktCzPtqFSdQF3KBCKPVHrbjFJo=",
           "METADATA_SIZE": "172798"
         }
       ]
