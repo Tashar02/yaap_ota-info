@@ -1,30 +1,11 @@
 ROM (includes custom changes, added by Tashar02):
-• Prevent Launcher3 crash on boot.
-• Make chosen font affect more UI elements.
-• Settings: Move AOD schedule to the new AOD page.
-• Never show the pseudo locales.
-• Revert "Fix split shade missing issue".
-• Revert "Optimize home to desktop transition".
-• Fix ignore secure window flag functionality.
-• Do not pin unnecessary files.
-• Apply patchset for EXEMPT BUGFIX from Google mainly to fix security vulnerabilities.
-• Dismiss screenshot window on touch outside.
-• Fix some memory leaks.
-• Mitigate system_server boot OOM on 512 MB heaps
-• Fast return in FileObserver when the observer is NULL.
-• Only close system dialogs for visible windows.
-• Reduce unnecessary calls to getLatestVsyncEventData.
-• Postpone NetworkWatchlistService scan during boot.
-• Use IntArray instead of ArraySet<Integer> to store int lists.
-• Remove screenshot action chip labels.
-• Fix secondary user crash with system user locked.
-• Fix external storage access with system user locked.
-
-Device:
-• Kernel state at Scarlet-v4.0.
-• Revert "Specify ambient color temperature sensor" since we don't have the required sensor.
-• Unmount /firmware after fastbootd starts.
-• Do not shim libwfdnative with libinput_shim.
-• Drop OnePlus Dolby Atmos in favor of Dolby Atmos from Sony Xperia 1V.
-• Tune dax config of Dolby Atmos for redwood.
-• Specify integer-array in rro_overlays where applicable.
+• Merge March ASB.
+• Remove security fixes unneeded for Android 16 QPR2.
+• Revert "Mitigate system_server boot OOM on 512 MB heaps".
+• Introduce new YAAP logo and boot animation.
+• Correctly theme AlertDialog with M3 colors.
+• Fix secondary click in InternetTile.
+• Remove non-translatable strings from "About Phone".
+• Synchronously check dev options availability.
+• Center the buttons in recent app menu to fix padding issues.
+• Fix material expressive for permission manager.
